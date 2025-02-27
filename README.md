@@ -16,8 +16,8 @@ Para garantizar la calidad y precisión de los datos utilizados en este dashboar
 
 -**Evolución de la compra:** Gráfico de barras que muestra la cantidad de viviendas vendidas por año en España y la Comunidad Valenciana.
 -**Evolución del precio del mt2:** Gráfico de barras que compara el valor promedio del mt2 por año en España y la Comunidad Valenciana.
--**Variación del precio de la vivienda:** Gráfico de líneas que muestra la variación del precio de la vivienda en España y la Comunidad Valenciana.
--**Variación del precio de la vivienda nueva y usada:** Gráfico de líneas que compara la variación del precio de la vivienda nueva y usada en España y la Comunidad Valenciana.
+-**Evolución del precio de la vivienda:** Gráfico de líneas que muestra la variación del precio de la vivienda en España y la Comunidad Valenciana.
+-**Evolución del precio de la vivienda nueva y usada:** Gráfico de líneas que compara la variación del precio de la vivienda nueva y usada en España y la Comunidad Valenciana.
 -**Evolución de la preocupación por la vivienda:** Gráfico de barras agrupadas que demuestra la evolución de la preocupación de los españoles por la vivienda en el año.
 
 ## Conclusión
