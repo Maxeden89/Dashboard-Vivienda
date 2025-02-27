@@ -31,7 +31,7 @@ La preocupación por la vivienda, reflejada en el gráfico correspondiente, ha a
 2.  Abra el archivo en Microsoft Excel.
 3.  Utilice los filtros y las segmentaciones disponibles para explorar los datos.
 4.  Pase el cursor sobre los elementos de los gráficos para ver los valores exactos.
-5.  Presione "Abrir Zoom" para ver una vista previa de dashboard.
+5.  Presione "Pantalla Completa" para ver una vista previa de dashboard.
 
 ## Fuentes de información.
 
